@@ -21,8 +21,8 @@ To run the code, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://anonymous.4open.science/r/CSSR-E20E
-    cd ./CSSR-E20E
+    git clone https://anonymous.4open.science/r/CSSR-2D45
+    cd ./CSSR-2D45
     ```
 
 2. Install the required dependencies:
@@ -54,8 +54,8 @@ To ensure privacy, faces and license plates have been blurred from the dataset. 
 <img src="./img/shanghai.jpg"  width="200"/> -->
 <table align="center">
   <tr>
-    <td><img src="https://anonymous.4open.science/r/CSSR-E20E/img/beijing.jpg" alt="Beijing" width="250"></td>
-    <td><img src="https://anonymous.4open.science/r/CSSR-E20E/img/beijing.jpg" alt="Shanghai" width="250"></td>
+    <td><img src="https://anonymous.4open.science/r/CSSR-2D45/img/beijing.jpg" alt="Beijing" width="250"></td>
+    <td><img src="https://anonymous.4open.science/r/CSSR-2D45/img/beijing.jpg" alt="Shanghai" width="250"></td>
   </tr>
   <tr align="center">
     <td>(a) Beijing</td>
@@ -66,7 +66,7 @@ To ensure privacy, faces and license plates have been blurred from the dataset. 
 ### Data Sample
 |Field|Data|
 |---|---|
-|Street View Image|<img src="https://anonymous.4open.science/r/CSSR-E20E/img/street_view_sample.jpg"  width="200"/>|
+|Street View Image|<img src="https://anonymous.4open.science/r/CSSR-2D45/img/street_view_sample.jpg"  width="200"/>|
 |Field-of-view|180|
 | Geographic Location   | (40.36474, 115.98144) |
 | Text Summary          | &lt;Street Name&gt; &lt;POIs&gt; This street view picture shows a typical Chinese traditional architectural style. The buildings have typical red bricks and gray tiles ... |

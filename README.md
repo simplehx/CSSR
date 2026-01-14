@@ -43,7 +43,7 @@ To run the code, follow these steps:
 
 
 ## StreetSem Dataset
-**Since the dataset is very large, it cannot be uploaded to an anonymous GitHub repository. To comply with the anonymity policy of the WWW conference, we will release the full dataset download link after the paper is accepted.**
+**Since the dataset is very large, it cannot be uploaded to an anonymous GitHub repository. To comply with the anonymity policy of the SIGIR conference, we will release the full dataset download link after the paper is accepted.**
 
 This study constructs and releases a large-scale benchmark dataset StreetSem, which contains data from two major Chinese cities: Beijing and Shanghai. The dataset consists of three parts: 1) Street View Images: We obtained 360-degree panoramic street view images of these two cities from publicly available LBS, and segmented them based on different horizontal field-of-view angles, where ${fov} \in \{0^\circ, 90^\circ, 180^\circ, 270^\circ\}$. 2) Image Summaries: We used the Qwen2.5-VL vision-language model (VLM) to generate textual summaries of visual elements in street view images. Additionally, to enrich geographic context, we supplemented the summaries with the names of nearby roads and POIs. 3) Queries: We used the Qwen3 large language model (LLM) to generate five types of queries for each street view image: atmosphere, activity, object, geography, and creativity. 
 

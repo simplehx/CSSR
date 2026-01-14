@@ -66,7 +66,7 @@ To protect privacy, faces and license plates in the dataset have been blurred. T
 ### Data Sample
 |Field|Data|
 |---|---|
-|Street View Image|<img src="https://anonymous.4open.science/r/CSSR-2D45/img/street_view_sample.jpg"  width="200"/>|
+|Street View Image|<img src="https://anonymous.4open.science/r/CSSR-E3F2/img/street_view_sample.jpg"  width="200"/>|
 |Field-of-view|180|
 | Geographic Location   | (40.36474, 115.98144) |
 | Text Summary          | &lt;Street Name&gt; &lt;POIs&gt; This street view picture shows a typical Chinese traditional architectural style. The buildings have typical red bricks and gray tiles ... |

@@ -21,8 +21,8 @@ To run the code, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://anonymous.4open.science/r/CSSR-2D45
-    cd ./CSSR-2D45
+    git clone https://anonymous.4open.science/r/CSSR-E3F2
+    cd ./CSSR-E3F2
     ```
 
 2. Install the required dependencies:
@@ -54,8 +54,8 @@ To protect privacy, faces and license plates in the dataset have been blurred. T
 <img src="./img/shanghai.jpg"  width="200"/> -->
 <table align="center">
   <tr>
-    <td><img src="https://anonymous.4open.science/r/CSSR-2D45/img/beijing.jpg" alt="Beijing" width="250"></td>
-    <td><img src="https://anonymous.4open.science/r/CSSR-2D45/img/shanghai.jpg" alt="Shanghai" width="250"></td>
+    <td><img src="https://anonymous.4open.science/r/CSSR-E3F2/img/beijing.jpg" alt="Beijing" width="250"></td>
+    <td><img src="https://anonymous.4open.science/r/CSSR-E3F2/img/shanghai.jpg" alt="Shanghai" width="250"></td>
   </tr>
   <tr align="center">
     <td>(a) Beijing</td>
